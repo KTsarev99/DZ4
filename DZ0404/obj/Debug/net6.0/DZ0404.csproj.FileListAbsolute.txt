@@ -1,0 +1,15 @@
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\obj\Debug\net6.0\DZ0404.csproj.AssemblyReference.cache
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\obj\Debug\net6.0\DZ0404.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\obj\Debug\net6.0\DZ0404.AssemblyInfoInputs.cache
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\obj\Debug\net6.0\DZ0404.AssemblyInfo.cs
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\obj\Debug\net6.0\DZ0404.csproj.CoreCompileInputs.cache
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\bin\Debug\net6.0\DZ0404.exe
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\bin\Debug\net6.0\DZ0404.deps.json
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\bin\Debug\net6.0\DZ0404.runtimeconfig.json
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\bin\Debug\net6.0\DZ0404.dll
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\bin\Debug\net6.0\DZ0404.pdb
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\obj\Debug\net6.0\DZ0404.dll
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\obj\Debug\net6.0\refint\DZ0404.dll
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\obj\Debug\net6.0\DZ0404.pdb
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\obj\Debug\net6.0\DZ0404.genruntimeconfig.cache
+C:\Users\х0з9ин\Desktop\Seminar04\DZ0404\obj\Debug\net6.0\ref\DZ0404.dll
